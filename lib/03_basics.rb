@@ -4,7 +4,7 @@ def who_is_bigger (a, b ,c)
          a = 84
          b = 42
          c = nil
-         return puts "oue c'est bon"
+         return puts "It's good !"
 
     end
 
